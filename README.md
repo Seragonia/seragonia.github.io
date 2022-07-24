@@ -6,7 +6,7 @@
 
 Sortie de l'alpha ! Cette première phase nous permettra d'avoir vos premiers retours.
 
-Une suggestion, un bug, une question ? Viens sur le [discord JirayaTV](https://discord.gg/GG7VaKxF6j), channel `#la-calv`.
+Une suggestion, un bug, une question ? Viens sur le <a href="https://discord.gg/GG7VaKxF6j" target="_blank">discord JirayaTV</a>[], channel `#la-calv`.
 
 Objectifs de l'alpha:
 
