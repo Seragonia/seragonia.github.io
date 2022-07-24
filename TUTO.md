@@ -1000,9 +1000,9 @@
             </p>
         </div>
     </section>
-    <input type="radio" name="accordion-radio-button" id="accordion-item-4" autocomplete="off">
+    <input type="radio" name="accordion-radio-button" id="accordion-item-5" autocomplete="off">
     <section class="accordion-item">
-        <label class="accordion-header" for="accordion-item-5">Panoplies</label>
+        <label class="accordion-header" for="accordion-item-6">Effets</label>
         <label class="closing" for="accordion-closing-button"></label>
         <div class="accordion-text">
             <p>
