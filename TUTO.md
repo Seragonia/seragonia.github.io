@@ -15,12 +15,12 @@ Le gachapon est composé de quatre oeufs via lesquels tu pourras obtenir des ré
 
 | Rareté / Pack | Oeuf chevelu | Oeuf dégarni | Oeuf rasé | Oeuf reluisant |
 | ------------- | ------------ | ------------ | --------- | -------------- |
-| Commun        | 50%          | 35%          | 20%       | 10%            |
-| Normal        | 38%          | 35%          | 25%       | 20%            |
-| Rare          | 10%          | 20%          | 35%       | 40%            |
-| Épique        | 2%           | 8%           | 16%       | 21%            |
-| Légendaire    | 0%           | 2%           | 4%        | 9%             |
-| Prix          | 10 000       | 20 000       | 50 000    | 100 000        |
+| Commun        | `50%`        | `35%`        | `20%`     | `10%`          |
+| Normal        | `38%`        | `35%`        | `25%`     | `20%`          |
+| Rare          | `10%`        | `20%`        | `35%`     | `40%`          |
+| Épique        | `2%`         | `8%`         | `16%`     | `21%`          |
+| Légendaire    | `0%`         | `2%`         | `4%`      | `9%`           |
+| Prix          | `10 000`     | `20 000`     | `50 000`  | `100 000`      |
 
 #### Équipements
 
@@ -193,33 +193,33 @@ Le gachapon est composé de quatre oeufs via lesquels tu pourras obtenir des ré
 
 #### Panoplies
 
-| famille                             | Palier 1 | Palier 2         | Palier 3         | Palier 4         | Palier 5         | Palier 6         | Bonus Palier 7                                               |
-| ----------------------------------- | -------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ------------------------------------------------------------ |
-| Panoplui-cui                        | Ø        | Ø                | +1F              | +2F -1V          | +2F -1V          | +3F -2V          | +4F -2V + La force de votre adversaire est réduite de 30% pendant 3 tours. |
-| Panoplie accessoire                 | Ø        | Ø                | +2E -1V          | +2E              | +3E +1V          | +3E +2V          | +4E +4V + Augmente les points de vie totaux de votre personnage de 15%. |
-| Panoplie miraculeuse                | Ø        | +2F              | +2F              | +4F -2V          | +4F -2V          | +6F -2V          | +6F -1V + Augmente la force d'attaque de votre personnage de 10%. |
-| Panopoil                            | Ø        | -1F -1V +1Vi     | -1F -1V +2Vi     | -1F -1V +2Vi     | -2F -2V +4Vi     | -2F -2V +4Vi     | -1F -1V +5Vi + La vitesse de votre adversaire est réduite de 75% pendant 2 tours. |
-| Panoplie lustrée                    | Ø        | -1V              | -2V              | -2V +2Vi         | -2V +2Vi         | -2V +4Vi         | -1V +4Vi + Les dégâts subits sont réduits de 25%.            |
-| Panoplie du dernier recours         | Ø        | +1V              | +3V -1F          | +3V -1F          | +5V -2F          | +5V -2F          | +7V -3F + Augmente les points de vie totaux de votre personnage de 20%. |
-| Panoplie détériorée                 | Ø        | +2F +2V +2E +2Vi | +2F +2V +2E +2Vi | +3F +2V +3E +2Vi | +3F +2V +3E +2Vi | +3F +3V +3E +3Vi | +5F +5V +5E +5Vi + Au début de chaque combat, l'un de vos objets est aléatoirement dédoublé. |
-| Panoplie comestible                 | Ø        | +2Vi             | -2F +1E +2Vi     | -2F +1E +2Vi     | -2F +2E +2Vi     | -2F +2E +2Vi     | +2E +2Vi + Vous avez 10% de chance de renvoyer 50% des dégâts subits. |
-| Panoplie nocive                     | Ø        | -1F              | -2F              | -3F +2V          | -3F +3V          | -3F +4V          | -3F +7V + Vous avez 30% de chance d'annuler les effets d'arme ou de calvitie de votre adversaire pour trois tours. |
-| Panoplie hygiènique                 | Ø        | +1V              | +2V              | +3V              | +4V -1E          | +5V -2E          | +6V -3E + Augmente la vitesse d'attaque de votre personnage de 35%. |
-| Panojij                             | Ø        | Ø                | +2F              | +2F              | +2F              | +3F              | +3F + Vous avez 80% de chance d'être invulnérable, empêchant l'adversaire de vous bloquer. |
-| Panopliquide                        | Ø        | +2Vi             | +2Vi +1E         | +3Vi +2E         | +3Vi +2E         | +3Vi +3E         | +5Vi +5E + Chaque fois que vous attaquez, vous avez 20% de chance de doubler vos dégâts. |
-| Panoplie à chier                    | Ø        | Ø                | Ø                | Ø                | +6V              | +10V             | +15V + Vos attaques volent 35% des points de vie retirés à votre adversaire. |
-| Panoplie ancienne                   | Ø        | +2E              | +2E              | +3E              | +3E              | +4E              | +6E + Si vous commencez votre tour avec moins de 20% de vos points de vie, vous récupérez 25% de vos points de vie totaux. |
-| Panoplie de la mamicienne           | Ø        | +2Vi             | +2Vi             | +3Vi             | +3Vi             | +4Vi             | +10Vi + Augmente la vitesse d'attaque de votre personnage de 30%. |
-| Panoplie maudite                    | Ø        | -2E              | -2E -1Vi         | -2E -2Vi         | +2F -2E -2Vi     | +2F +2V -2E -2Vi | +2F +2V -2E -2Vi + A chaque tour, vous avez 20% de chance d'infliger un deuxième coup. |
-| Panotaku                            | Ø        | +2Vi             | +2Vi             | +1V +2Vi         | +1V +2Vi         | +2V +2Vi         | +5V +5Vi + A chaque tour, vous avez 15% de chance d'infliger un deuxième coup. |
-| Panoplie de l'aventurier ancestral  | Ø        | +2F              | +2F              | +2F +1V          | +2F +1V          | +2F +2V          | +5F +5V + Vos attaques volent 30% des points de vie retirés à votre adversaire. |
-| Panoplie de l'apprenti jardinier    | Ø        | +2E              | +2E              | +1V +2E          | +1V +2E          | +2V +2E          | +5V +5E + Vous avez 50% de chance de créer une hémorragie chez votre adversaire pour 3 tours, réduisant ses soins reçus de 50%. |
-| Panoplie monstrueuse dégarnie       | Ø        | +2F              | +3F              | +4F              | +5F              | +6F              | +8F + Vos dégâts d'attaque sont augmentés de 10%.            |
-| Panoplie monstrueuse flottante      | Ø        | +2V              | +3V              | +4V              | +5V              | +6V              | +8V + Augmente les points de vie totaux de votre personnage de 15%. |
-| Panoplie monstrueuse sanguinaire    | Ø        | +2Vi             | +3Vi             | +4Vi             | +5Vi             | +6Vi             | +8Vi + Augmente la vitesse d'attaque de votre personnage de 25%. |
-| Panoplie monstrueuse indestructible | Ø        | +2F              | +3F              | +3F +1Vi         | +3F +2Vi         | +3F +3Vi         | +5F +5Vi + La force de votre adversaire est réduite de 20% pendant 3 tours. |
-| Panoplie monstrueuse cradingue      | Ø        | +1F              | +1F              | +1F +2Vi         | +1F +2Vi         | +2F +2Vi         | +3F +3Vi + La force de votre adversaire est réduite de 90% pendant 1 tours. |
-| Panoplie monstrueuse alléchante     | Ø        | -1V              | -1V -1E          | -2V -1E          | -2V -2E          | +2F -2V -2E      | +7F -2V -2E + La force de votre adversaire est réduite de 35% pendant 2 tours. |
+| famille                             | Palier 1 | Palier 2           | Palier 3           | Palier 4           | Palier 5           | Palier 6           | Bonus Palier 7                                               |
+| ----------------------------------- | -------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------------------------------------------------ |
+| Panoplui-cui                        | Ø        | Ø                  | `+1F`              | `+2F -1V`          | `+2F -1V`          | `+3F -2V`          | `+4F -2V`<br />La force de votre adversaire est réduite de 30% pendant 3 tours. |
+| Panoplie accessoire                 | Ø        | Ø                  | `+2E -1V`          | `+2E`              | `+3E +1V`          | `+3E +2V`          | `+4E +4V`<br />Augmente les points de vie totaux de votre personnage de 15%. |
+| Panoplie miraculeuse                | Ø        | `+2F`              | `+2F`              | `+4F -2V`          | `+4F -2V`          | `+6F -2V`          | `+6F -1V`<br />Augmente la force d'attaque de votre personnage de 10%. |
+| Panopoil                            | Ø        | `-1F -1V +1Vi`     | `-1F -1V +2Vi`     | `-1F -1V +2Vi`     | `-2F -2V +4Vi`     | `-2F -2V +4Vi`     | `-1F -1V +5Vi`<br />La vitesse de votre adversaire est réduite de 75% pendant 2 tours. |
+| Panoplie lustrée                    | Ø        | `-1V`              | `-2V`              | `-2V +2Vi`         | `-2V +2Vi`         | `-2V +4Vi`         | `1V +4Vi`<br />Les dégâts subits sont réduits de 25%.        |
+| Panoplie du dernier recours         | Ø        | `+1V`              | `+3V -1F`          | `+3V -1F`          | `+5V -2F`          | `+5V -2F`          | `+7V -3F` <br />Augmente les points de vie totaux de votre personnage de 20%. |
+| Panoplie détériorée                 | Ø        | `+2F +2V +2E +2Vi` | `+2F +2V +2E +2Vi` | `+3F +2V +3E +2Vi` | `+3F +2V +3E +2Vi` | `+3F +3V +3E +3Vi` | `+5F +5V +5E +5Vi`<br />Au début de chaque combat, l'un de vos objets est aléatoirement dédoublé. |
+| Panoplie comestible                 | Ø        | `+2Vi`             | `-2F +1E +2Vi`     | `-2F +1E +2Vi`     | `-2F +2E +2Vi`     | `-2F +2E +2Vi`     | `+2E +2Vi` <br />Vous avez 10% de chance de renvoyer 50% des dégâts subits. |
+| Panoplie nocive                     | Ø        | `-1F`              | `-2F`              | `-3F +2V`          | `-3F +3V`          | `-3F +4V`          | `-3F +7V` <br />Vous avez 30% de chance d'annuler les effets d'arme ou de calvitie de votre adversaire pour trois tours. |
+| Panoplie hygiènique                 | Ø        | `+1V`              | `+2V`              | `+3V`              | `+4V -1E`          | `+5V -2E`          | `+6V -3E` <br />Augmente la vitesse d'attaque de votre personnage de 35%. |
+| Panojij                             | Ø        | Ø                  | `+2F`              | `+2F`              | `+2F`              | `+3F`              | `+3F` <br />Vous avez 80% de chance d'être invulnérable, empêchant l'adversaire de vous bloquer. |
+| Panopliquide                        | Ø        | `+2Vi`             | `+2Vi +1E`         | `+3Vi +2E`         | `+3Vi +2E`         | `+3Vi +3E`         | `+5Vi +5` <br />Chaque fois que vous attaquez, vous avez 20% de chance de doubler vos dégâts. |
+| Panoplie à chier                    | Ø        | Ø                  | Ø                  | `Ø                 | `+6V`              | `+10V`             | `+15V` <br />Vos attaques volent 35% des points de vie retirés à votre adversaire. |
+| Panoplie ancienne                   | Ø        | `+2E`              | `+2E`              | `+3E`              | `+3E`              | `+4E`              | `+6E`<br />Si vous commencez votre tour avec moins de 20% de vos points de vie, vous récupérez 25% de vos points de vie totaux. |
+| Panoplie de la mamicienne           | Ø        | `+2Vi`             | `+2Vi`             | `+3Vi`             | `+3Vi`             | `+4Vi`             | `+10Vi` <br />Augmente la vitesse d'attaque de votre personnage de 30%. |
+| Panoplie maudite                    | Ø        | `-2E`              | `-2E -1Vi`         | `-2E -2Vi`         | `+2F -2E -2Vi`     | `+2F +2V -2E -2Vi` | `+2F +2V -2E -2Vi` <br />A chaque tour, vous avez 20% de chance d'infliger un deuxième coup. |
+| Panotaku                            | Ø        | `+2Vi`             | `+2Vi`             | `+1V +2Vi`         | `+1V +2Vi`         | v+2V +2Vi`         | `+5V +5Vi` <br />A chaque tour, vous avez 15% de chance d'infliger un deuxième coup. |
+| Panoplie de l'aventurier ancestral  | Ø        | `+2F`              | `+2F`              | `+2F +1V`          | `+2F +1V`          | `+2F +2V`          | `+5F +5V` <br />Vos attaques volent 30% des points de vie retirés à votre adversaire. |
+| Panoplie de l'apprenti jardinier    | Ø        | `+2E`              | `+2E`              | `+1V +2E`          | `+1V +2E`          | `+2V +2E`          | `+5V +5E` <br />Vous avez 50% de chance de créer une hémorragie chez votre adversaire pour 3 tours, réduisant ses soins reçus de 50%. |
+| Panoplie monstrueuse dégarnie       | Ø        | `+2F`              | `+3F`              | `+4F`              | `+5F`              | `+6F`              | `+8F` <br />Vos dégâts d'attaque sont augmentés de 10%.      |
+| Panoplie monstrueuse flottante      | Ø        | `+2V`              | `+3V`              | `+4V`              | `+5V`              | `+6V`              | `+8V` <br />Augmente les points de vie totaux de votre personnage de 15%. |
+| Panoplie monstrueuse sanguinaire    | Ø        | `+2Vi`             | `+3Vi`             | `+4Vi`             | `+5Vi`             | `+6Vi`             | `+8Vi` <br />Augmente la vitesse d'attaque de votre personnage de 25%. |
+| Panoplie monstrueuse indestructible | Ø        | `+2F`              | `+3F`              | `+3F +1Vi`         | `+3F +2Vi`         | `+3F +3Vi`         | `+5F +5Vi` <br />La force de votre adversaire est réduite de 20% pendant 3 tours. |
+| Panoplie monstrueuse cradingue      | Ø        | `+1F`              | `+1F`              | `+1F +2Vi`         | `+1F +2Vi`         | `+2F +2Vi`         | `+3F +3Vi` <br />La force de votre adversaire est réduite de 90% pendant 1 tours. |
+| Panoplie monstrueuse alléchante     | Ø        | `-1V`              | `-1V -1E`          | `-2V -1E`          | `-2V -2E`          | `+2F -2V -2E`      | `+7F -2V -2E` <br />La force de votre adversaire est réduite de 35% pendant 2 tours. |
 
 #### Effets
 
