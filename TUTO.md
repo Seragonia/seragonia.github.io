@@ -739,7 +739,7 @@
             </p>
         </div>
     </section>
-    <input type="radio" name="accordion-radio-button" id="accordion-item-3" autocomplete="off">
+    <input type="radio" name="accordion-radio-button" id="accordion-item-4" autocomplete="off">
     <section class="accordion-item">
         <label class="accordion-header" for="accordion-item-4">Panoplies</label>
         <label class="closing" for="accordion-closing-button"></label>
@@ -1000,7 +1000,7 @@
             </p>
         </div>
     </section>
-    <input type="radio" name="accordion-radio-button" id="accordion-item-4" autocomplete="off">
+    <input type="radio" name="accordion-radio-button" id="accordion-item-5" autocomplete="off">
     <section class="accordion-item">
         <label class="accordion-header" for="accordion-item-5">Effets</label>
         <label class="closing" for="accordion-closing-button"></label>
@@ -1050,7 +1050,6 @@
             </p>
         </div>
     </section>
-    <input type="radio" name="accordion-radio-button" id="accordion-item-5" autocomplete="off">
     <input type="radio" name="accordion-radio-button" id="accordion-closing-button" autocomplete="off">
 
 </nav>
