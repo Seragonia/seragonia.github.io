@@ -22,4 +22,12 @@ Objectifs de l'alpha:
 * Chaque participant à l'alpha aura une récompense exclusive (esthétique) durant la saison régulière.
 * Nous récompensons tous les joueurs qui trouveraient des bugs ou de quelconques problèmes sous la forme d'alopièces.
 
+**Bugs connus ou limitations:** (sera finalisé petit à petit)
+
+* Le menu Gachapon n'est pas entièrement finalisé (il manque les animations à l'ouverture de packs).
+* Les images des "items" ne sont pas encore intégrées au jeu.
+* Les monstres (PvE et PvP) n'ont pas encore d'effet, de statistiques uniques ou de récompenses sous la forme d'objet.
+* Glisser-déposer les objets depuis l'inventaire fonctionne mal sur mobile et sur pc si la page web est zoomée.
+* Le jeu prend trop de place sur navigateur via mobile.
+
 # FIN
